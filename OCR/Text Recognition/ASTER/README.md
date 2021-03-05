@@ -7,20 +7,3 @@
 
 ## 1) Rectification Network
 - dd
-
-<br>
-
-## 1) Rectification Network
-- dd
-
-<br>
-
-## 1) Rectification Network
-- dd
-
-<br>
-
-## 1) Rectification Network
-- dd
-
-<br>
