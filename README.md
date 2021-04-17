@@ -22,7 +22,7 @@
 
 <br>
 
-## Text Detection
+### Text Detection
 - [EAST, 2017](./OCR/Text%20Detection/EAST/README.md)
 - [PSENet, 2019](./OCR/Text%20Detection/PSENet/README.md)
 - [PAN, 2019](./OCR/Text%20Detection/PAN/README.md)
@@ -30,13 +30,13 @@
 
 <br>
 
-## Text Recognition
+### Text Recognition
 - [CRNN, 2015](./OCR/Text%20Detection/CRNN/README.md)
 - [ASTER, 2017](./OCR/Text%20Detection/ASTER/README.md)
 - [CLOVA, 2019](./OCR/Text%20Detection/CLOVA/README.md)
 
 <br>
 
-## Preprocessing
+### Preprocessing
 - [DewarpNet, 2019](./OCR/Preprocessiong/DewarpNet/README.md)
 
