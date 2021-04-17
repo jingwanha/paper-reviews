@@ -20,7 +20,7 @@
   - Segmentation head : FPEM, FFM
 - F<sub>r</sub> : feature pyramid로 1x1 convolution을 통해 feature map의 channel을 축소
 - F<sup>n<sub>c</sub></sup> : FPEMS에 의한 enhanced feature map
-- F<sub>f</syb> FFM에 의해 결합된 최종 feature map (text 영역을 검출하는 feature map으로 사용 됨)
+- F<sub>f</sub> FFM에 의해 결합된 최종 feature map (text 영역을 검출하는 feature map으로 사용 됨)
 
 <br>
 
