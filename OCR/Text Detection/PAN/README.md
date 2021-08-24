@@ -46,7 +46,7 @@
 <br>
 
 ## 4) Pixel Aggregation (PA)
-- 일반적으로 Text 간 영역은 겹치는 영역이 많은 반면, kernel을 이용하는 경우 text 간 영역을 잘 구별 할 수 있다. (위 Architecture 그림 중 (a),(b) 참고)
+- 일반적으로 Text 간 영역은 겹치는 영역이 많은 반면, kernel을 이용하는 경우 text 간 영역을 잘 구별 할 수 있다. (위 Architecture 그림 중 (g),(h) 참고)
 - PA는 학습가능한 알고리즘으로 text region의 픽셀들을 kernel에 병합하여 완전한 text 영역을 검출 (clustering 기법 사용)
 - PA 방법은 아래와 같다.
   - 1). 검출될 text instance를 cluster, kernels를 cluster의 center로, 각 text 픽셀을 군집화 될 sample로 간주한다.

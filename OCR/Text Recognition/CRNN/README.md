@@ -4,8 +4,6 @@
 - CRNN은 CNN과 RNN을 이용한 Sequence Recognition 모델이다. 
 - CRNN의 구조는 Convolutional Layers, Recurrent Layers, Trascription Layer로 구성되어 있으며 입력(이미지)로 부터 Text sequence를 인식한다.
 -  CTC(Connectionist Temporal Classification) Loss를 사용하여 end-to-end로 모델을 학습한다.
--  
-- 
 
 
 <br><br>
